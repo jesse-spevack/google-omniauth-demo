@@ -1,24 +1,5 @@
-# README
+# Google Omniauth Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project demonstrates how to use feature and unit tests to drive the implementation of third-party authentication through Google's Omniauth gem.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The tutorial walking through the creation of this project can be found [here.](http://www.jessespevack.com/systems-leadership/2016/10/16/how-to-test-drive-omniauth-google-oauth2-for-your-rails-app)
